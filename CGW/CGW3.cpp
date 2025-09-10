@@ -93,10 +93,22 @@ int main() {
             printf("점의 개수: %d\n", n);
             break;
 
-        case 'b':
-            for (int i = 0; i < 10; i++) if (used[i]) { p[i].x--; p[i].y--; p[i].z--; }
-            sorted = 0; printlist(p, used);
+        case 'b': {
+            point temp = p[0];      // p[0] 임시 저장
+            bool temp_used = used[0];
+
+            for (int i = 0; i < 9; i++) {
+                p[i] = p[i + 1];
+                used[i] = used[i + 1];
+            }
+
+            p[9] = temp;           // p[0]을 p[9]로 이동
+            used[9] = temp_used;
+
+            sorted = 0;
+            printlist(p, used);
             break;
+        }
 
         case 'c':
             for (int i = 0; i < 10; i++) { if (used[i]) zeropoint(&p[i]); used[i] = false; }
