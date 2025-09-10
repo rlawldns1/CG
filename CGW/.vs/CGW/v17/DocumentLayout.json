@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CG\\CG\\CGW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|D:\\CG\\CG\\CGW\\CGW6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|solutionrelative:CGW6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|D:\\CG\\CG\\CGW\\CGW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|solutionrelative:CGW1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|D:\\CG\\CG\\CGW\\CGW2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|solutionrelative:CGW2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|D:\\CG\\CG\\CGW\\CGW3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|solutionrelative:CGW3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|D:\\CG\\CG\\CGW\\CGW5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|solutionrelative:CGW5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|D:\\CG\\CG\\CGW\\CGW4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36286895-FD16-4CE4-8B9C-B35410E1CC25}|CGW.vcxproj|solutionrelative:CGW4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CGW6.cpp",
+              "DocumentMoniker": "D:\\CG\\CG\\CGW\\CGW6.cpp",
+              "RelativeDocumentMoniker": "CGW6.cpp",
+              "ToolTip": "D:\\CG\\CG\\CGW\\CGW6.cpp",
+              "RelativeToolTip": "CGW6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T01:03:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CGW5.cpp",
+              "DocumentMoniker": "D:\\CG\\CG\\CGW\\CGW5.cpp",
+              "RelativeDocumentMoniker": "CGW5.cpp",
+              "ToolTip": "D:\\CG\\CG\\CGW\\CGW5.cpp",
+              "RelativeToolTip": "CGW5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T01:03:21.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CGW4.cpp",
+              "DocumentMoniker": "D:\\CG\\CG\\CGW\\CGW4.cpp",
+              "RelativeDocumentMoniker": "CGW4.cpp",
+              "ToolTip": "D:\\CG\\CG\\CGW\\CGW4.cpp",
+              "RelativeToolTip": "CGW4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T01:02:23.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CGW3.cpp",
+              "DocumentMoniker": "D:\\CG\\CG\\CGW\\CGW3.cpp",
+              "RelativeDocumentMoniker": "CGW3.cpp",
+              "ToolTip": "D:\\CG\\CG\\CGW\\CGW3.cpp",
+              "RelativeToolTip": "CGW3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T00:59:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CGW2.cpp",
+              "DocumentMoniker": "D:\\CG\\CG\\CGW\\CGW2.cpp",
+              "RelativeDocumentMoniker": "CGW2.cpp",
+              "ToolTip": "D:\\CG\\CG\\CGW\\CGW2.cpp",
+              "RelativeToolTip": "CGW2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T00:58:52.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CGW1.cpp",
+              "DocumentMoniker": "D:\\CG\\CG\\CGW\\CGW1.cpp",
+              "RelativeDocumentMoniker": "CGW1.cpp",
+              "ToolTip": "D:\\CG\\CG\\CGW\\CGW1.cpp",
+              "RelativeToolTip": "CGW1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T00:58:32.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
